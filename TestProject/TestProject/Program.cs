@@ -11,6 +11,7 @@ namespace TestProject
         static void Main(string[] args)
         {
             int a;
+            a = 20;
         }
     }
 }
