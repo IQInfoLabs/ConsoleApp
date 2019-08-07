@@ -10,6 +10,7 @@ namespace TestProject
     {
         static void Main(string[] args)
         {
+			int i=0;
             int a;
             a = 20;
             int b = 30;
